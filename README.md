@@ -49,7 +49,7 @@ RegisterNumber:24901168
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![Uploading Screenshot 2024-12-03 152744.png…]()
+![Screenshot 2024-12-03 152744](https://github.com/user-attachments/assets/f0626b1f-2db8-4837-961f-af7d682c3467)
 
 **RESULTS**
 Thus the output is verified.
